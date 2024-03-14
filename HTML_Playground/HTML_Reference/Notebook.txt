@@ -1,0 +1,3 @@
+<P>   This is a paragraph   </P>
+(OpenTag)     (Content)     (CloseTag)
+             [Html Element] -Tags with content known as html Element
